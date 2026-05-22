@@ -2,4 +2,4 @@
 This is my first Git Repository.
 Good stuff resides here
 <br>
-Author- Parinitha J
+Author- Parinitha Parinitha J
